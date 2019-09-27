@@ -126,3 +126,23 @@ INFO:root:Started
 INFO:root:Finished
 INFO:root:Started
 INFO:root:Finished
+2019-09-20 15:01:31,350 Started
+2019-09-20 15:01:37,637 Started
+2019-09-20 15:01:47,693 Started
+2019-09-20 15:02:29,404 Started
+2019-09-20 15:04:16,536 Started
+2019-09-20 15:04:41,231 Gene prediction is done
+2019-09-20 15:05:05,010 Started
+2019-09-20 15:05:50,498 Started
+2019-09-20 15:06:08,702 Gene prediction is done
+2019-09-20 15:07:50,705 Getting sequence is done
+2019-09-20 15:08:13,103 Alignment is done
+2019-09-20 15:08:16,710 Stats for each locus were obtained
+2019-09-20 15:08:20,613 Distance matrices were generated
+2019-09-20 15:08:33,960 Unique allele was called
+2019-09-20 15:08:34,178 Allele profile was created for each genome
+2019-09-20 15:08:34,890 N/A alleles were in table
+2019-09-20 15:08:35,907 Heatmap was generated
+2019-09-20 15:08:36,571 Dendrogram and subtype count graph generated
+2019-09-20 15:08:37,088 Finished
+2019-09-20 15:08:37,276 Outputfiles are sent to your email account

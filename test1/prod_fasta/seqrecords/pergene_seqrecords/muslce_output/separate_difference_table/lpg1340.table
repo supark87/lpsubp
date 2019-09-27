@@ -1,19 +1,55 @@
-	lpg1340_NML140461.blast.pair	lpg1340_NML140662.blast.pair	lpg1340_NML160914.blast.pair	lpg1340_NML160997.blast.pair	lpg1340_NML161338.blast.pair	lpg1340_JMG-0004.blast.pair	lpg1340_JMG-0013-1.blast.pair	lpg1340_JMG-0163-1.blast.pair	lpg1340_JMG-0032-1.blast.pair	lpg1340_JMG-0018-2.blast.pair	lpg1340_JMG-0161-1.blast.pair	lpg1340_JMG-0067-1.blast.pair	lpg1340_hottub.blast.pair	lpg1340_clinic.blast.pair	lpg1340_JMG-0108-1.blast.pair	lpg1340_JMG-0136-1.blast.pair	lpg1340_JMG-0158-1.blast.pair	lpg1340_medicine.blast.pair
-lpg1340_NML140461.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
-lpg1340_NML140662.blast.pair	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	
-lpg1340_NML160914.blast.pair	1	1	0	1	1	0	1	1	1	0	1	0	0	0	1	1	1	1	
-lpg1340_NML160997.blast.pair	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
-lpg1340_NML161338.blast.pair	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	
-lpg1340_JMG-0004.blast.pair	1	1	0	1	1	0	1	1	1	0	1	0	0	0	1	1	1	1	
-lpg1340_JMG-0013-1.blast.pair	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	
-lpg1340_JMG-0163-1.blast.pair	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
-lpg1340_JMG-0032-1.blast.pair	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	
-lpg1340_JMG-0018-2.blast.pair	1	1	0	1	1	0	1	1	1	0	1	0	0	0	1	1	1	1	
-lpg1340_JMG-0161-1.blast.pair	1	0	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	
-lpg1340_JMG-0067-1.blast.pair	1	1	0	1	1	0	1	1	1	0	1	0	0	0	1	1	1	1	
-lpg1340_hottub.blast.pair	1	1	0	1	1	0	1	1	1	0	1	0	0	0	1	1	1	1	
-lpg1340_clinic.blast.pair	1	1	0	1	1	0	1	1	1	0	1	0	0	0	1	1	1	1	
-lpg1340_JMG-0108-1.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
-lpg1340_JMG-0136-1.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
-lpg1340_JMG-0158-1.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
-lpg1340_medicine.blast.pair	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	
+	lpg1340_LEG422.blast.pair	lpg1340_LEG435.blast.pair	lpg1340_LEG437.blast.pair	lpg1340_LEG436.blast.pair	lpg1340_LEG414.blast.pair	lpg1340_LEG587.blast.pair	lpg1340_LEG586.blast.pair	lpg1340_LEG251.blast.pair	lpg1340_LEG253.blast.pair	lpg1340_LEG256.blast.pair	lpg1340_LEG254.blast.pair	lpg1340_LEG257.blast.pair	lpg1340_LEG255.blast.pair	lpg1340_LEG252.blast.pair	lpg1340_LEG321.blast.pair	lpg1340_LEG323.blast.pair	lpg1340_LEG519.blast.pair	lpg1340_LEG370.blast.pair	lpg1340_LEG509.blast.pair	lpg1340_LEG522.blast.pair	lpg1340_LEG512.blast.pair	lpg1340_LEG514.blast.pair	lpg1340_LEG515.blast.pair	lpg1340_LEG516.blast.pair	lpg1340_LEG511.blast.pair	lpg1340_LEG517.blast.pair	lpg1340_LEG508.blast.pair	lpg1340_LEG510.blast.pair	lpg1340_LEG585.blast.pair	lpg1340_LEG342.blast.pair	lpg1340_LEG339.blast.pair	lpg1340_LEG338.blast.pair	lpg1340_LEG369.blast.pair	lpg1340_LEG518.blast.pair	lpg1340_LEG366.blast.pair	lpg1340_LEG364.blast.pair	lpg1340_LEG362.blast.pair	lpg1340_LEG378.blast.pair	lpg1340_REF134.blast.pair	lpg1340_LEG379.blast.pair	lpg1340_LEG520.blast.pair	lpg1340_LEG363.blast.pair	lpg1340_LEG417.blast.pair	lpg1340_LEG443.blast.pair	lpg1340_LEG345.blast.pair	lpg1340_LEG421.blast.pair	lpg1340_LEG423.blast.pair	lpg1340_LEG533.blast.pair	lpg1340_LEG534.blast.pair	lpg1340_LEG523.blast.pair	lpg1340_LEG425.blast.pair	lpg1340_LEG521.blast.pair	lpg1340_LEG312.blast.pair	lpg1340_LEG513.blast.pair
+lpg1340_LEG422.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	
+lpg1340_LEG435.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG437.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG436.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG414.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG587.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG586.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG251.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG253.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG256.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG254.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG257.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG255.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG252.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG321.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG323.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG519.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG370.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG509.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG522.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG512.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG514.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG515.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG516.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG511.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG517.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG508.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG510.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG585.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg1340_LEG342.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG339.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG338.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG369.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+lpg1340_LEG518.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg1340_LEG366.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG364.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG362.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG378.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_REF134.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG379.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG520.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	
+lpg1340_LEG363.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG417.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG443.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG345.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG421.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	
+lpg1340_LEG423.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	
+lpg1340_LEG533.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	
+lpg1340_LEG534.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	1	1	1	1	1	
+lpg1340_LEG523.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	
+lpg1340_LEG425.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	0	1	1	1	
+lpg1340_LEG521.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
+lpg1340_LEG312.blast.pair	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	
+lpg1340_LEG513.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	

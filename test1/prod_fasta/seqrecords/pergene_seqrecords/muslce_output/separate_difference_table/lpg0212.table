@@ -1,19 +1,55 @@
-	lpg0212_NML140461.blast.pair	lpg0212_NML140662.blast.pair	lpg0212_NML160914.blast.pair	lpg0212_NML160997.blast.pair	lpg0212_NML161338.blast.pair	lpg0212_JMG-0013-1.blast.pair	lpg0212_JMG-0158-1.blast.pair	lpg0212_JMG-0108-1.blast.pair	lpg0212_JMG-0018-2.blast.pair	lpg0212_JMG-0004.blast.pair	lpg0212_JMG-0163-1.blast.pair	lpg0212_JMG-0161-1.blast.pair	lpg0212_hottub.blast.pair	lpg0212_JMG-0067-1.blast.pair	lpg0212_JMG-0032-1.blast.pair	lpg0212_JMG-0136-1.blast.pair	lpg0212_medicine.blast.pair	lpg0212_clinic.blast.pair
-lpg0212_NML140461.blast.pair	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
-lpg0212_NML140662.blast.pair	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	
-lpg0212_NML160914.blast.pair	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	
-lpg0212_NML160997.blast.pair	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
-lpg0212_NML161338.blast.pair	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	
-lpg0212_JMG-0013-1.blast.pair	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	
-lpg0212_JMG-0158-1.blast.pair	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
-lpg0212_JMG-0108-1.blast.pair	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	
-lpg0212_JMG-0018-2.blast.pair	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	
-lpg0212_JMG-0004.blast.pair	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	
-lpg0212_JMG-0163-1.blast.pair	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	
-lpg0212_JMG-0161-1.blast.pair	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	
-lpg0212_hottub.blast.pair	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	
-lpg0212_JMG-0067-1.blast.pair	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	
-lpg0212_JMG-0032-1.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	
-lpg0212_JMG-0136-1.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	
-lpg0212_medicine.blast.pair	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	
-lpg0212_clinic.blast.pair	1	1	0	1	1	1	1	1	1	0	1	1	0	0	1	1	1	0	
+	lpg0212_LEG521.blast.pair	lpg0212_LEG414.blast.pair	lpg0212_LEG437.blast.pair	lpg0212_LEG436.blast.pair	lpg0212_LEG435.blast.pair	lpg0212_LEG520.blast.pair	lpg0212_LEG523.blast.pair	lpg0212_LEG345.blast.pair	lpg0212_LEG363.blast.pair	lpg0212_LEG443.blast.pair	lpg0212_LEG417.blast.pair	lpg0212_LEG533.blast.pair	lpg0212_LEG534.blast.pair	lpg0212_LEG364.blast.pair	lpg0212_LEG362.blast.pair	lpg0212_LEG342.blast.pair	lpg0212_LEG366.blast.pair	lpg0212_LEG425.blast.pair	lpg0212_LEG513.blast.pair	lpg0212_LEG339.blast.pair	lpg0212_LEG338.blast.pair	lpg0212_LEG379.blast.pair	lpg0212_LEG421.blast.pair	lpg0212_LEG423.blast.pair	lpg0212_LEG586.blast.pair	lpg0212_LEG257.blast.pair	lpg0212_LEG252.blast.pair	lpg0212_LEG518.blast.pair	lpg0212_LEG587.blast.pair	lpg0212_LEG515.blast.pair	lpg0212_LEG321.blast.pair	lpg0212_LEG323.blast.pair	lpg0212_LEG370.blast.pair	lpg0212_LEG585.blast.pair	lpg0212_LEG255.blast.pair	lpg0212_LEG256.blast.pair	lpg0212_LEG312.blast.pair	lpg0212_LEG251.blast.pair	lpg0212_LEG253.blast.pair	lpg0212_LEG254.blast.pair	lpg0212_REF134.blast.pair	lpg0212_LEG378.blast.pair	lpg0212_LEG422.blast.pair	lpg0212_LEG514.blast.pair	lpg0212_LEG516.blast.pair	lpg0212_LEG519.blast.pair	lpg0212_LEG509.blast.pair	lpg0212_LEG511.blast.pair	lpg0212_LEG510.blast.pair	lpg0212_LEG522.blast.pair	lpg0212_LEG508.blast.pair	lpg0212_LEG517.blast.pair	lpg0212_LEG512.blast.pair	lpg0212_LEG369.blast.pair
+lpg0212_LEG521.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG414.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+lpg0212_LEG437.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+lpg0212_LEG436.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+lpg0212_LEG435.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
+lpg0212_LEG520.blast.pair	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG523.blast.pair	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG345.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG363.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG443.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG417.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG533.blast.pair	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG534.blast.pair	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG364.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG362.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG342.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG366.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG425.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG513.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG339.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG338.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG379.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG421.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG423.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG586.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG257.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG252.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG518.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG587.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG515.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG321.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG323.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG370.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG585.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG255.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG256.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG312.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG251.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG253.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG254.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_REF134.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG378.blast.pair	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG422.blast.pair	1	1	1	1	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	
+lpg0212_LEG514.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG516.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG519.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG509.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG511.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG510.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG522.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG508.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG517.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG512.blast.pair	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	
+lpg0212_LEG369.blast.pair	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	
