@@ -1,7 +1,5 @@
 import logging
 
-def precode0():
-     import filenamechange
 def precode1():
      import header_change
 def code0():
@@ -35,7 +33,6 @@ def code13():
 def main():
      logging.basicConfig(filename='myscripts.log',format='%(asctime)s %(message)s', level=logging.INFO)
      logging.info("Started")
-     precode0()
      precode1()
      code0()
      logging.basicConfig(format='%(asctime)s %(message)s')
