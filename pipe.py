@@ -1,5 +1,9 @@
 import logging
 
+def precode0():
+     import filenamechange
+def precode1():
+     import header_change
 def code0():
      import run_prodigal_tr
 def code1():
