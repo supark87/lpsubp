@@ -12,7 +12,7 @@ for file in os.listdir(cwdir):
      if file.endswith(".fasta"):
          name=file.split(".")[0]
          #print(name)
-         with open(file) as original, open(name+"_corrected"+".fasta",'w') as corrected:
+         with open(file) as original, open(name+".fasta",'w') as corrected:
              records=SeqIO.parse(original,'fasta')
              for record in records:
                  record.id=name+""+record.id
